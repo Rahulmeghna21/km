@@ -18,7 +18,7 @@ import psutil
 
 loop = asyncio.get_event_loop()
 
-TOKEN = '8097510622:AAH9EyM8uolUP35eVULB4wixoBPaQobwrMU'
+TOKEN = '8112795608:AAGVJMRik8S9XU2C5Ho2SLzIwSwXeGWHphs'
 MONGO_URI = 'mongodb+srv://Kamisama:Kamisama@kamisama.m6kon.mongodb.net/'
 FORWARD_CHANNEL_ID = -1002359696641
 CHANNEL_ID = -1002359696641
